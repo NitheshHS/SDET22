@@ -1,0 +1,47 @@
+Jira
+--------------------------------------------------
+Jira is software to manage complete project(Project Managemenet tool) and also bug tracking tool
+
+Jira software:-
+cloud or .exe(windows) or .dmg(mac)
+
+Issue Types in Jira:-
+Epic :- List of user stories or larger user story
+Story:- User story/ module/feature
+Task:- Writing testcases, Automating testcases etc
+Bug:- Defect in functionality
+
+Epic:-
+Fields in Epic:-
+1. Epic Name
+2. Epic Summary
+3. Attachment
+4. Assignee
+5. Description
+6. Sprint
+7. Priority
+
+story:-
+summary
+Attachment
+description
+priority
+fix version
+epic link
+linked issue
+priority
+sprint
+
+How to write testcases in Jira??
+plugins available in jira to write testcases and managing automation task:- zephyr, Qmetry, SynapseRT, TestRail, Xray etc..
+
+Bug:-
+Summary:- root cause of the defect
+Description:- How to recreate bug
+Attachment:- screenshot or screen record
+Environment:- platform and browser information
+Fix version:- application version
+Priority:- Highest, high, low, lowest, medium
+Assignee:- developer
+Epic Link:- which epic it is belongs to
+Sprint:- which sprint to fix the bug
